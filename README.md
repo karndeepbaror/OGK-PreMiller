@@ -48,18 +48,9 @@ bash start.sh
 ```
 
 3. You will see the tool banner:
-```
-============================================================
-                 OGK-Pre Miller 👾 - Advanced APK Anylizer Tool 
-============================================================
 
-About: OGK-Pre Miller provides a complete static analysis summary of an Android APK.
+![IMG_20251113_160946](https://github.com/user-attachments/assets/74606033-ee20-4139-95c8-b2eecf0bceae)
 
-Important: The decryption key is posted on our Telegram channel.
-Telegram: ✈️  @CryptonicArea
-
-Enter Key 🔐 -
-```
 
 
 ***3. Enter the key from our Telegram channel:***
