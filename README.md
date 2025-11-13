@@ -5,7 +5,7 @@
 It extracts detailed information about an APK’s technologies, languages, frameworks, and more, helping security researchers, pen-testers, and developers understand APK internals quickly.
 
 
-***## Features ✨***
+## Features ✨
 
 - Analyze Android APKs for:
   - Programming languages used
@@ -60,14 +60,14 @@ Telegram: ✈️  @CryptonicArea
 Enter Key 🔐 -
 ```
 
-3. Enter the key from our Telegram channel:
+***3. Enter the key from our Telegram channel:***
 ✈️ @CryptonicArea
 
 4. Follow on-screen prompts to analyze your APK:
 
 Enter the full path to your APK file:  
 ```
-/storage/emulated/0/Download/sample.apk
+/storage/emulated/0/Download/example.apk
 ```
 
 View detailed report in terminal
