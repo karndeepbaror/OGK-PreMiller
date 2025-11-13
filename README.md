@@ -24,7 +24,7 @@ It extracts detailed information about an APK’s technologies, languages, frame
 
 **Requirements:**
 - Python 3.8+  
-- OpenSSL (for decryption)  
+- androguard 
 - Required Python packages: see below  
 
 **Step 1 — Install dependencies**
