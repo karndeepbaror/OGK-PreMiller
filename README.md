@@ -61,7 +61,8 @@ Enter Key 🔐 -
 ```
 
 ***3. Enter the key from our Telegram channel:***
-✈️ @CryptonicArea
+✈️ [Join our Telegram Channel](https://t.me/CryptonicArea)
+
 
 4. Follow on-screen prompts to analyze your APK:
 
@@ -110,5 +111,5 @@ _The encrypted .enc file and Telegram key cannot be copied, modified, or redistr
 ***Author 👨‍💻***
 
 *Karndeep Baror - Passionate Ethical Hacker*
-GitHub: github.com/karndeepbaror
+[ 💡 Connect On LinkedIn ](https://www.linkedin.com/in/karndeepbaror)
 
