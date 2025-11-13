@@ -47,69 +47,68 @@ bash start.sh
 ```
 
 3. You will see the tool banner:
-  
+```
+============================================================
+                 OGK-Pre Miller 👾 - Advanced APK Anylizer Tool 
+============================================================
+
+About: OGK-Pre Miller provides a complete static analysis summary of an Android APK.
+
+Important: The decryption key is posted on our Telegram channel.
+Telegram: ✈️  @CryptonicArea
+
+Enter Key 🔐 -
+```
+
 3. Enter the key from our Telegram channel:
 ✈️ @CryptonicArea
 
+4. Follow on-screen prompts to analyze your APK:
 
-4. The encrypted Python script (ogkpremiller.enc) will be decrypted automatically to ogkpremiller.py and executed.
-
-
-5. Follow on-screen prompts to analyze your APK:
-
-Enter the full path to your APK file (e.g., /storage/emulated/0/Download/sample.apk)
+Enter the full path to your APK file:  
+```
+/storage/emulated/0/Download/sample.apk
+```
 
 View detailed report in terminal
 
 Optionally save report as a text file
 
 
+***Supported Platforms 💻***
 
-
-
-Supported Platforms 💻
-
-Termux / Android
-
-Linux
-
-macOS
-
-Windows (Python 3)
+__Termux / Android__
+__Linux__
+__macOS__
+__Windows (Python 3)__
 
 
 > Note: On Termux, make sure python3 and openssl are installed:
-
-
-
+```
 pkg install python openssl
+```
+
+***Security 🔒***
+
+- The tool is password-protected. The key is shared only on Telegram: ✈️ @CryptonicArea
+
+- The encrypted script cannot be redistributed.
+
+- The decrypted Python file may be automatically deleted after execution (if using auto-delete version) for security.
+
+***License 📜***
+
+_This repository uses a Modified MIT License:_
+
+_Normal MIT permissions apply to all non-encrypted scripts and helper files._
+
+_The encrypted .enc file and Telegram key cannot be copied, modified, or redistributed._
 
 
+"See the LICENSE file for details."
 
-Security 🔒
+***Author 👨‍💻***
 
-The tool is password-protected. The key is shared only on Telegram: ✈️ @CryptonicArea
-
-The encrypted script cannot be redistributed.
-
-The decrypted Python file may be automatically deleted after execution (if using auto-delete version) for security.
-
-
-
-License 📜
-
-This repository uses a Modified MIT License:
-
-Normal MIT permissions apply to all non-encrypted scripts and helper files.
-
-The encrypted .enc file and Telegram key cannot be copied, modified, or redistributed.
-
-
-See the LICENSE file for details.
-
-
-Author 👨‍💻
-
-Karndeep Baror
+*Karndeep Baror - Passionate Ethical Hacker*
 GitHub: github.com/karndeepbaror
 
