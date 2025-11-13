@@ -29,36 +29,25 @@ It extracts detailed information about an APK’s technologies, languages, frame
 
 **Step 1 — Install dependencies**
 
-Clone the repository:
-```bash
+*Clone the repository:*
+```
 git clone https://github.com/karndeepbaror/OGK-PreMiller.git
 cd OGK-PreMiller
+```
+*Install Python packages:*
+```
+pip3 install -r requirements.txt
+```
 
-Install Python packages:
-
-python3 -m pip install --upgrade pip setuptools wheel
-python3 -m pip install -r requirements.txt
-
-or
-
-python3 setup.py install
-
-
-Usage 🚀
+***Usage 🚀***
 
 1. Run the launcher:
+```
+bash start.sh
+```
 
-
-
-./start.sh
-
-2. You will see the tool banner:
-
-
-
-OGK-Pre Miller
-Short description: Provides full APK analysis.
-
+3. You will see the tool banner:
+  
 3. Enter the key from our Telegram channel:
 ✈️ @CryptonicArea
 
