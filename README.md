@@ -1,5 +1,6 @@
 
 # OGK-Pre Miller 👾 
+![IMG_20251113_160514](https://github.com/user-attachments/assets/7c18e2dd-0b2d-48eb-9328-19daa163528a)
 
 **OGK-Pre Miller** is an advanced **Android APK Analyzer Tool** designed to provide **complete static analysis** of any Android APK.  
 It extracts detailed information about an APK’s technologies, languages, frameworks, and more, helping security researchers, pen-testers, and developers understand APK internals quickly.
@@ -60,8 +61,9 @@ Telegram: ✈️  @CryptonicArea
 Enter Key 🔐 -
 ```
 
+
 ***3. Enter the key from our Telegram channel:***
-[✈️ Join Telegram Channel ](https://t.me/CryptonicArea)
+[✈️ Join Telegram Channel ](https://t.me/CryptonicArea/14)
 
 
 4. Follow on-screen prompts to analyze your APK:
@@ -91,7 +93,7 @@ pkg install python openssl
 
 ***Security 🔒***
 
-- The tool is password-protected. The key is shared only on Telegram: [ ✈️ @CryptonicArea ]()
+- The tool is password-protected. The key is shared only on Telegram: [ ✈️ @CryptonicArea ](https://t.me/CryptonicArea/14)
 
 - The encrypted script cannot be redistributed.
 
@@ -112,6 +114,9 @@ _The encrypted .enc file and Telegram key cannot be copied, modified, or redistr
 
 *Karndeep Baror - Passionate Ethical Hacker*
 💡 Linkdin: [ Karndeep Baror](https://www.linkedin.com/in/karndeepbaror)
+
+--
+
 🎭 Instagram : [ @karndeeepbaror ](www.instagram.com/karndeepbaror)
 
 > _Good Bye 👋🏻 , Stay Ethical, Stay Secure 🔐_
