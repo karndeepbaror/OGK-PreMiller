@@ -61,7 +61,7 @@ Enter Key 🔐 -
 ```
 
 ***3. Enter the key from our Telegram channel:***
-_✈️ Telegram_ : [ Cryptonic Area ](https://t.me/CryptonicArea)
+[✈️ Cryptonic Area ](https://t.me/CryptonicArea)
 
 
 4. Follow on-screen prompts to analyze your APK:
@@ -91,7 +91,7 @@ pkg install python openssl
 
 ***Security 🔒***
 
-- The tool is password-protected. The key is shared only on Telegram: ✈️ @CryptonicArea
+- The tool is password-protected. The key is shared only on Telegram: [ ✈️ @CryptonicArea ]()
 
 - The encrypted script cannot be redistributed.
 
@@ -113,3 +113,5 @@ _The encrypted .enc file and Telegram key cannot be copied, modified, or redistr
 *Karndeep Baror - Passionate Ethical Hacker*
 💡 Linkdin: [ Karndeep Baror](https://www.linkedin.com/in/karndeepbaror)
 🎭 Instagram : [ @karndeeepbaror ](www.instagram.com/karndeepbaror)
+
+> _Good Bye 👋🏻 , Stay Ethical, Stay Secure 🔐_
