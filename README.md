@@ -108,6 +108,10 @@ _The encrypted .enc file and Telegram key cannot be copied, modified, or redistr
 
 --
 
+🌐 WhatsApp Channel : [ Cryptonic Area ](https://whatsapp.com/channel/0029Vb6plDSBKfi3qGz2fq0f)
+
+--
+
 🎭 Instagram : [ @karndeeepbaror ](www.instagram.com/karndeepbaror)
 
 > _Good Bye 👋🏻 , Stay Ethical, Stay Secure 🔐_
