@@ -61,7 +61,7 @@ Enter Key 🔐 -
 ```
 
 ***3. Enter the key from our Telegram channel:***
-[✈️ Cryptonic Area ](https://t.me/CryptonicArea)
+[✈️ Join Telegram Channel ](https://t.me/CryptonicArea)
 
 
 4. Follow on-screen prompts to analyze your APK:
