@@ -61,7 +61,7 @@ Enter Key 🔐 -
 ```
 
 ***3. Enter the key from our Telegram channel:***
-✈️ [Join our Telegram Channel](https://t.me/CryptonicArea)
+_✈️ Telegram_ : [ Cryptonic Area ](https://t.me/CryptonicArea)
 
 
 4. Follow on-screen prompts to analyze your APK:
@@ -71,9 +71,9 @@ Enter the full path to your APK file:
 /storage/emulated/0/Download/example.apk
 ```
 
-View detailed report in terminal
+> View detailed report in terminal
 
-Optionally save report as a text file
+> Optionally save report as a text file
 
 
 ***Supported Platforms 💻***
@@ -111,5 +111,5 @@ _The encrypted .enc file and Telegram key cannot be copied, modified, or redistr
 ***Author 👨‍💻***
 
 *Karndeep Baror - Passionate Ethical Hacker*
-[ 💡 Connect On LinkedIn ](https://www.linkedin.com/in/karndeepbaror)
-
+💡 Linkdin: [ Karndeep Baror](https://www.linkedin.com/in/karndeepbaror)
+🎭 Instagram : [ @karndeeepbaror ](www.instagram.com/karndeepbaror)
