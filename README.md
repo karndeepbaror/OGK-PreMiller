@@ -44,7 +44,7 @@ pip3 install -r requirements.txt
 
 1. Run the launcher:
 ```
-bash start.sh
+bash start.py
 ```
 
 3. You will see the tool banner:
