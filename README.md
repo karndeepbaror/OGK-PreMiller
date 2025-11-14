@@ -49,8 +49,7 @@ bash start.py
 
 3. You will see the tool banner:
 
-![IMG_20251113_160946](https://github.com/user-attachments/assets/74606033-ee20-4139-95c8-b2eecf0bceae)
-
+![IMG_20251114_152952](https://github.com/user-attachments/assets/e1d54faa-1f03-4093-8165-a066c4626ec4)
 
 
 ***3. Enter the key from our Telegram channel:***
