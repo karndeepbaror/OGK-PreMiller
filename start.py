@@ -12,7 +12,7 @@ def banner():
     print("               OGK-PRE MILLER")
     print("="*60 + "\033[0m")
     print("\033[1;93mA powerful encrypted tool loader for secure execution.\033[0m")
-    print("\033[1;92mEncrypted file   : ogkpremiller.enc")
+    print("\033[1;92mInstagram   : @karndeepbaror")
     print("\033[1;92mPassword source  : Telegram Channel")
     print("\033[1;96mTelegram :  @CryptonicArea\033[0m")
     print("\n\033[1;95mPress ENTER to continue...\033[0m")
